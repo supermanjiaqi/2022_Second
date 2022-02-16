@@ -2,3 +2,4 @@
 push 快捷方式
 test
 test3——push2
+gittest——push1
